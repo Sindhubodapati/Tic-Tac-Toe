@@ -60,10 +60,12 @@ start index.html
 ```
 
 
-⭐️ If you liked this game, give the repo a star and share with others!
 
 ## 📸 Screenshot
 
 ![Game Screenshot](https://github.com/Sindhubodapati/Tic-Tac-Toe/blob/main/image.png)
+
+
+⭐️ If you liked this game, give the repo a star and share with others!
 
 
