@@ -2,7 +2,6 @@
 
 A classic browser-based Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. Two players take turns playing as "X" and "O" on a 3x3 grid. The first to align three marks horizontally, vertically, or diagonally wins!
 
----
 
 ## 🎮 Features
 
@@ -12,14 +11,14 @@ A classic browser-based Tic-Tac-Toe game built using **HTML**, **CSS**, and **Ja
 - Fully responsive layout with modern styling
 - Draw detection with message display
 
----
 
 ## 📂 Project Structure
-
+```
 Tic-Tac-Toe/
-├── index.html # Main HTML structure
-├── style.css # Styling for game layout
-└── app.js # Game logic and interactivity
+├── index.html  # Main HTML structure
+├── style.css  # Styling for game layout
+└── app.js   # Game logic and interactivity
+```
 
 
 
