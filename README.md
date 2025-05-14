@@ -46,20 +46,25 @@ Tic-Tac-Toe/
 2. **Navigate to the project directory**
   ```bash
   cd Tic-Tac-Toe
+```
+
 
 **Open index.html in your browser**
 # For macOS
+```bash
 open index.html
+```
 
 # For Windows
+```bash
 start index.html
-
+```
 
 
 ⭐️ If you liked this game, give the repo a star and share with others!
 
 ## 📸 Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](https://github.com/Sindhubodapati/Tic-Tac-Toe/blob/main/image.png)
 
 
